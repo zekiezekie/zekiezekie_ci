@@ -2,6 +2,6 @@
 
 <?=$this->section('content') ?>
 
-<h1>This is view page</h1>
+<h1>This is list page</h1>
 
 <?=$this->endSection('content') ?>
